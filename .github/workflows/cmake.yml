@@ -44,4 +44,4 @@ jobs:
       with:
         name: nethernetlog-${{format('android-{0}', matrix.abi)}}
         path: |
-          build/mcpelaunchernethernetlog.so
+          build/libmcpelaunchernethernetlog.so
